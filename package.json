@@ -1,0 +1,18 @@
+{
+  "name": "chayma",
+  "version": "1.0.0",
+  "description": "helo",
+  "main": "hello.js",
+  "scripts": {
+    "test": "tt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ok"
+  },
+  "keywords": [
+    "o"
+  ],
+  "author": "ch",
+  "license": "ISC"
+}
